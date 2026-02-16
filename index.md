@@ -10,4 +10,4 @@ Product counsel and platform governance.
 I help teams build and ship AI and consumer internet products—responsibly.  
 Previously at OpenAI, Google Search, and YouTube.
 
-[LinkedIn](https://linkedin.com/in/harrislco)  | [Bluesky](https://bsky.app/profile/h-co.bsky.social) | [CV](cv.html)
+[LinkedIn](https://linkedin.com/in/harrislco) // [Bluesky](https://bsky.app/profile/h-co.bsky.social) // [CV](cv.html)
