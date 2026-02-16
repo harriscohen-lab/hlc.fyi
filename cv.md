@@ -9,7 +9,7 @@ Tech / copyright attorney and product leader with 10+ years of experience at You
 
 ## Experience
 
-### Associate General Counsel — OpenAI  
+### Associate General Counsel — Product, OpenAI  
 `2024–present`
 
 - Counseled product and research teams on development of agentic AI, search, and content generation features.
@@ -41,7 +41,7 @@ Drove horizontal product strategy to combat misinformation across Search.
 - Co-founded information literacy product program; grew investment 10x in ~2 years  
 - Launched contextual feature based on academic and user research on effective information literacy practices  
 
-### Group Product Manager — YouTube Partner Program  
+### Group Product Manager — YouTube Partner Program, YouTube  
 `2018–2019`
 
 - Improved monetization access and reduced abuse in program criteria and application flows  

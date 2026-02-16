@@ -27,6 +27,10 @@ h3 {
   letter-spacing: -0.01em;
 }
 
+code {
+    font-weight: 100;
+}
+
 a {
   color: inherit;
   text-decoration: underline;
