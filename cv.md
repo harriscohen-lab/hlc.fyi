@@ -5,7 +5,7 @@ title: About
 
 # Harris Cohen
 
-Tech / copyright attorney and product leader with 10+ years of experience at YouTube and Google. Passionate about keeping platforms safe for creation and innovation.
+Tech / copyright attorney and product leader with 10+ years of experience at YouTube, Google and OpenAI. Passionate about keeping platforms safe for creation and innovation.
 
 ## Experience
 
@@ -27,11 +27,10 @@ Formulated legal strategy on content regulation and platform liability issues, i
 ### Group Product Manager — User Safety, Google Search  
 `2021–2023`
 
-Led team keeping users safe, comfortable, and in control using Google Search (iOS and Android apps).
+Led team keeping users safe, comfortable, and in control using Google Search (iOS and Android apps). 
 
-- Helped users better understand site safety and privacy  
-- Enabled reporting of privacy issues  
-- Improved evaluation of information trustworthiness  
+- Brought ["Results About You"](https://techcrunch.com/2022/09/28/google-rolls-out-tool-to-request-removal-of-personal-info-from-search-results-will-later-add-proactive-alerts/) privacy reporting to the Search mobile apps
+- Empowered users to evaluate information via ["About This Result"](https://blog.google/products-and-platforms/products/search/get-the-full-picture-with-helpful-context-on-websites/)
 
 ### Group Product Manager — Search Trust, Google Search  
 `2019–2021`
@@ -39,7 +38,7 @@ Led team keeping users safe, comfortable, and in control using Google Search (iO
 Drove horizontal product strategy to combat misinformation across Search.
 
 - Co-founded information literacy product program; grew investment 10x in ~2 years  
-- Launched contextual feature based on academic and user research on effective information literacy practices  
+- Launched contextual features founded on academic and user research on effective information literacy practices  
 
 ### Group Product Manager — YouTube Partner Program, YouTube  
 `2018–2019`
@@ -94,6 +93,7 @@ Planned and executed public relations campaigns for tech and entertainment clien
 
 ## Press & Speaking
 
+- Guest Lecturer, AI Governance — Santa Clara University School of Law (2026)
 - Panelist, Generative AI and YouTube — Google Legal Summer Institute (2023)  
 - Quoted — CNET (2021)  
 - Quoted — TechCrunch (2020)  
