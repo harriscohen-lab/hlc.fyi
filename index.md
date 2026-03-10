@@ -5,9 +5,6 @@ title: Harris Cohen
 
 # Harris Cohen
 
-Product counsel and platform governance.
-
-I help teams build and ship AI and consumer internet products—responsibly.  
-Previously at OpenAI, Google Search, and YouTube.
+AI lawyer and product leader. Passionate about making tech platforms safe for speech and creativity.
 
 [LinkedIn](https://linkedin.com/in/harrislco) // [Bluesky](https://bsky.app/profile/h-co.bsky.social) // [CV](cv.html)
