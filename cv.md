@@ -7,7 +7,7 @@ title: CV
 
 [harris.cohen@gmail.com](mailto:harris.cohen@gmail.com) // [LinkedIn](https://www.linkedin.com/in/harrislco/)
 
-Tech / copyright attorney and product leader with 10+ years experience at YouTube and Google. Passionate about keeping platforms safe for creation and innovation.
+AI / tech attorney and product leader with 10+ years experience at YouTube and Google. Passionate about keeping platforms safe for creation and innovation.
 
 ## Experience
 
