@@ -5,7 +5,7 @@ title: CV
 
 # Harris Cohen
 
-[harris.cohen@gmail.com](mailto:harris.cohen@gmail.com) // [LinkedIn](https://www.linkedin.com/in/harrislco/)
+[LinkedIn](https://www.linkedin.com/in/harrislco/)
 
 AI / tech attorney and product leader with 10+ years experience at YouTube and Google. Passionate about keeping platforms safe for creation and innovation.
 
