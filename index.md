@@ -7,4 +7,4 @@ title: Harris Cohen
 
 AI lawyer and product leader. Passionate about making tech platforms safe for speech and creativity.
 
-[LinkedIn](https://linkedin.com/in/harrislco) // [Bluesky](https://bsky.app/profile/h-co.bsky.social) // [CV](cv.html)
+[LinkedIn](https://linkedin.com/in/harrislco) // [Bluesky](https://bsky.app/profile/did:plc:6ionyrgauqv2syggz7oegocs) // [CV](cv.html)
